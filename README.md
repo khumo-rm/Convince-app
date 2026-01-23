@@ -19,6 +19,7 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
+bmm m m   
 *.egg-info/
 .installed.cfg
 *.egg
@@ -80,17 +81,20 @@ Thumbs.db
 # Docker
 .dockerignore
 
-# AI Models (large files)
+# AI Models
 *.pth
 *.pt
 *.h5
 *.pb
 models/
 
-# Temporary files
-*.tmp
-*.temp
-.cache/
+Project Status
+This project is a demo application created to practice application structure, UI layout, and core logic. Some features remain incomplete due to academic timelines.
+
+What I Learned
+Application flow and component structure
+Debugging and iterative development
+Managing a project repository using GitHub
 
 
 
